@@ -1,54 +1,49 @@
 {
   "website":{
-    "title": "杰克的博客"
+    "title": "ஞானாவின் பக்கம்"
   },
   "nav":{
-    "home": "首页",
-    "about_me": "关于我",
-    "skills": "技能",
-    "projects": "项目",
-    "career": "职业",
-    "blog": "博客",
-    "link": "友情链接"
+    "home": "அகம்",
+    "about_me": "எனைப்பற்றி",
+    "skills": "திறன்கள்",
+    "projects": "செயற்றிட்டங்கள்",
+    "career": "Career",
+    "blog": "Blog",
+    "link": "Link"
   },
   "about_me":{
-    "about_me": "关于我",
-    "des": "我是一名全栈工程师，有开发网站，运维自动化，编写脚本的经验。人生是不断学习的过程，工作使我变的更严谨，旅行让我的生活更加多彩。通过编程和旅行我能结识到很多朋友。"
+    "about_me": "About Me",
+    "des": "I am a IT generelist with systems development and systems monitoring experience."
   },
   "skills":{
-    "my_skills": "我的技能"
+    "my_skills": "My Skills"
   },
   "projects":{
-    "my_projects": "我的项目",
-    "jalpc": "这是一个我自己的GitHub项目.",
-    "cpython": "这是一个别人的GitHub项目.",
-    "familycode": "这是另外一个项目."
+    "my_projects": "My Projects",
+    "techceylon": "This project is my project",
+    "cpython": "This project is other's project. I use another request to get repo's information."
   },
   "career":{
-    "my_career": "职业生涯",
-    "nextcode": "Nextcode",
-    "nextcode_des": "现在我在Nextcode，使用Python为基因分析项目做网站.",
-    "nextcode_date": "2016年4月",
-    "nextcode_job": "Python工程师",
-    "netease": "网易游戏",
-    "netease_des": "在网易游戏，我了解到游戏体系，并使用Python代码为自动化运维服务.",
-    "netease_date": "2015年6月",
-    "netease_job": "运维开发工程师",
-    "ucloud": "Ucloud",
-    "ucloud_des": "在Ucloud,我开始和服务器、操作系统打交道，并使用shell脚本管理海量服务器.",
-    "ucloud_date": "2013年9月",
-    "ucloud_job": "运维开发工程师",
-    "college": "毕业",
-    "college_des": "2013年7月大学毕业，开始了IT职业生涯",
-    "college_date": "2013年7月",
-    "college_job": "学生"
+    "my_career": "My Career",
+    "theitteam": "The IT Team",
+    "theitteam_des": "Worked partially on software development and systems monitoring.",
+    "theitteam_date": "Apr. 2015",
+    "theitteam_job": "IT Engineer",
+    "hairylemon": "HairyLemon",
+    "hairylemon_des": "In HairyLemon, I worked on multiple client projects on php and C#.NET.",
+    "hairylemon_date": "March. 2013",
+    "hairylemon_job": "Backend Developer",
+    "college": "Graduation",
+    "college_des": "At July 2005,I graduated from college and started my IT technology tour.",
+    "college_date": "Jul. 2005",
+    "college_job": "Student"
   },
   "blog":{
-    "my_blog": "我的博客"
+    "my_blog": "My Blog"
   },
   "link":{
-    "link": "友情链接",
-    "view": "次访问"
+    "link": "Link",
+    "view": "views"
   }
 
 }

@@ -7,20 +7,20 @@
     "about_me": "எனைப்பற்றி",
     "skills": "திறன்கள்",
     "projects": "செயற்றிட்டங்கள்",
-    "career": "Career",
-    "blog": "Blog",
-    "link": "Link"
+    "career": "வேலைகள்",
+    "blog": "வலைப்பூ",
+    "link": "இணைப்பு"
   },
   "about_me":{
-    "about_me": "About Me",
-    "des": "I am a IT generelist with systems development and systems monitoring experience."
+    "about_me": "எனைப்பற்றி",
+    "des": "நான் ஒரு தகவல் தொழிநுட்பவியலாளன். மென்பொருள் வடிவமைப்பு மற்றும் கண்காணிப்புத் துறைகளில் வேலை செய்கிறேன்.."
   },
   "skills":{
-    "my_skills": "My Skills"
+    "my_skills": "என் திறன்கள்"
   },
   "projects":{
-    "my_projects": "My Projects",
-    "techceylon": "This project is my project",
+    "my_projects": "எனது செயற்றிட்டங்கள்",
+    "techceylon": "டெக் சிலோன் ஒரு இலாப நோக்கமற்ற  நிறுவனத்தின் இணையப்பக்கம்.",
     "cpython": "This project is other's project. I use another request to get repo's information."
   },
   "career":{
